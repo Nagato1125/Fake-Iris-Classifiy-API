@@ -1,5 +1,7 @@
 {
-    "setosa": 70,
-    "versicolor": 10,
-    "verginica": 20
+    "predict": {
+        "setosa": 70,
+        "versicolor": 10,
+        "verginica": 20
+    }
 }
